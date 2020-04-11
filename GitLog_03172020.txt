@@ -1,0 +1,53 @@
+commit cb6055414cd6393fcad79fe3fe64b6489c30af9c
+Author: jfulgadojr05 <47204039+jfulgadojr05@users.noreply.github.com>
+Date:   Fri Feb 21 13:08:32 2020 -0800
+
+    Deleting test and phase 2 directory
+
+commit a0a0256a3a5f6316c10fb545d9fb4c609b36a8b8
+Author: jfulgadojr05 <47204039+jfulgadojr05@users.noreply.github.com>
+Date:   Fri Feb 21 13:04:15 2020 -0800
+
+    This is a new directory
+
+commit 692757f4e834023f6216e9017f8367c27ebdd692
+Author: jfulgadojr05 <47204039+jfulgadojr05@users.noreply.github.com>
+Date:   Fri Feb 21 13:02:40 2020 -0800
+
+    New files added for Phase 2
+
+commit 987ef477304c4b82459b7bfe24976c06131415d5
+Author: jfulgadojr05 <47204039+jfulgadojr05@users.noreply.github.com>
+Date:   Fri Feb 7 23:18:07 2020 -0800
+
+    Added new files for new project idea (Wholefoods)
+
+commit 63175250451c2355ff5ed28b4bed03aae82bdc48
+Author: jfulgadojr05 <47204039+jfulgadojr05@users.noreply.github.com>
+Date:   Fri Feb 7 23:17:10 2020 -0800
+
+    Deleting old UML diagram
+
+commit 9575726466a9adce66580e513a382e9ee9f6876f
+Author: jfulgadojr05 <47204039+jfulgadojr05@users.noreply.github.com>
+Date:   Fri Feb 7 23:16:54 2020 -0800
+
+    Deleting old schedule
+
+commit 03a3ea7faf3053552ae156c61f0d5240bd81bdee
+Author: jfulgadojr05 <47204039+jfulgadojr05@users.noreply.github.com>
+Date:   Fri Feb 7 23:16:41 2020 -0800
+
+    Deleting old powerpoint
+
+commit b4f475bd2985b7458e8de4b862ac6cde8ef961db
+Author: jfulgadojr05 <47204039+jfulgadojr05@users.noreply.github.com>
+Date:   Mon Feb 3 23:12:54 2020 -0800
+
+    Project Files added
+
+commit 345220bb0872d5577fb4c503cf81b5aeb4cb79b3
+Author: jfulgadojr05 <47204039+jfulgadojr05@users.noreply.github.com>
+Date:   Sat Feb 1 11:50:18 2020 -0800
+
+    Initial commit
